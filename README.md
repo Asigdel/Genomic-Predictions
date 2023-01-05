@@ -30,7 +30,7 @@ done
 
 #!/bin/bash
 #SBATCH --job-name=paralG_Holstein_Genic
-#SBATCH --mail-user=hendyelpacheco@ufl.edu
+#SBATCH --mail-user=anil.sigdel@ufl.edu
 #SBATCH --mail-type=END,FAIL
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=1
